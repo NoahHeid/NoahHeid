@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Springwolve
+- 👋 Hi, I’m Noah
 - 👀 I’m interested in Programming and Software Development
-- 🌱 I’m currently learning Web Development using PHP, HTML, CSS and Golang   
+- 🌱 I’m currently learning Web/App Development using MERN.
 - 📫 How to reach me: springwolve@gmail.com
