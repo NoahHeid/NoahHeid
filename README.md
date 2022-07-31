@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Noah
-- 👀 I’m interested in Programming, Software Development, Web Development and Technology
-- 🌱 I’m currently learning Web/App Development using the MERN Stack.
+- 👀 I’m interested in Programming, Software Development, Backend Development and Technology
 - 🎓 I’m studying Business Informatics and I'm trying to learn something new everyday!
