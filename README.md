@@ -1,3 +1,1 @@
 - 👋 Hi, I’m Noah
-- 👀 I’m interested in Programming, Software Development, Backend Development
-- 🎓 I’m studying Business Informatics and I'm trying to learn something new everyday!
